@@ -1,4 +1,5 @@
-This is code for the paper [here](https://arxiv.org/abs/2002.10061)
+This is code for the paper 
+Rethinking 1D-CNN for Time Series Classification: A Stronger Baseline [here](https://arxiv.org/abs/2002.10061)
 
 
 ### Environment 
